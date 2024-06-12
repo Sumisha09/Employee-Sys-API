@@ -1,0 +1,10 @@
+{
+  "main": "employee-sys-api.raml",
+  "name": "Employee Sys API",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "employee-sys-api",
+  "version": "1.0.0"
+}
